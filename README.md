@@ -4,7 +4,9 @@
 <a href="https://www.linkedin.com/in/sadiemlee/">
   <img align="left" alt="Sadie's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <br />
+
 i'm a current cognitive systems student with a passion for design and development✨. i love building ideas from start to finish, with people as the focal point-whether that be through user experience or developing concepts that ultimately fulfill human wants and needs. while i'm always looking to explore new avenues💡, my current interests lie in the domains of machine learning and human factors.
 
 <h2 align="center"> languages & tools </h2>
