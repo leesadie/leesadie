@@ -7,7 +7,7 @@
 
 <br />
 
-i'm a current cognitive systems student with a passion for design and development✨. i love building ideas from start to finish, with people as the focal point-whether that be through user experience or developing concepts that ultimately fulfill human wants and needs. while i'm always looking to explore new avenues💡, my current interests lie in the domains of machine learning and human factors.
+i'm a current cognitive systems student with a passion for design and development✨. i love building ideas from start to finish, with people as the focal point-whether that be through user experience or developing concepts that ultimately fulfill human wants and needs. while i'm always looking to explore new avenues💡, my current interests lie in the domains of deep learning and neurotechnology.
 
 <h2 align="center"> languages & tools </h2>
 <p align="center">
