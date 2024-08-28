@@ -2,4 +2,4 @@
 
 <br />
 
-I am a student at the University of British Columbia studying Cognitive Systems (focus on Mind, Language, and Computation) with a minor in Data Science. My current interests lie in machine and deep learning, software development, and applications of data and computation in healthcare and medicine.
+I am a student at the University of British Columbia studying cognitive science and data science. My experience and interests are within applications of data and technology for human health.
