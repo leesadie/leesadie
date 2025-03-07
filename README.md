@@ -2,4 +2,4 @@
 
 <br />
 
-I am a student at the University of British Columbia studying cognitive science and data science. My experience and interests are within safe applications of data and emerging technology.
+Student at the University of British Columbia studying cognitive science and data science. Experience and interests in building and evaluating applications of data and emerging technology
