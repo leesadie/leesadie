@@ -1,3 +1,3 @@
 ## Sadie Lee
 
-Student at the University of British Columbia studying cognitive science and data science. Interested in building, using, and evaluating AI/ML systems, particularly for human health. 
+Cognitive science and data science student at the University of British Columbia, graduating May 2026. Interested in building and evaluating AI/ML models, and examining how these systems are used in practice.
